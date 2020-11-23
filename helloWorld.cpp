@@ -5,11 +5,8 @@ using namespace std;
 
 int main(){
     cout << "Hello world!" << endl;
-<<<<<<< HEAD
     cout << "Buongiorno!" << endl;
-=======
     cout << "Moin moin" << endl; 
->>>>>>> norddeutsch
 
     ClassA a;
 
